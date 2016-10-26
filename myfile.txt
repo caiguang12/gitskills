@@ -1,3 +1,8 @@
 This is test dev txt
 
+Creating a new branch is quick ADN simple
+<<<<<<< HEAD
 Creating a new branch is quick & simple
+=======
+Creating a new baranch is quick and simple`
+>>>>>>> featurel
